@@ -83,6 +83,7 @@ ul {
     max-width: 600px; 
     margin: 1vw;
     padding: 1vw;
+    word-wrap: break-word;
 }
 
 ul li {
@@ -95,7 +96,6 @@ ul li {
     align-items: center;
     flex-direction: column;
     gap: 1vh;
-    word-wrap: break-word;
     overflow-wrap: break-word;
     width: 100%;
     font-size: 1.5vw;
